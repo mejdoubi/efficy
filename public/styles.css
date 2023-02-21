@@ -1,0 +1,12 @@
+input {
+  text-align: right;
+}
+
+button {
+  display: block;
+  margin: 1rem 0px 1rem;
+}
+
+.output {
+  font-family: monospace;
+}
